@@ -1,0 +1,19 @@
+body {
+  background: #222;
+  color: #fff;
+  font-family: 'Segoe UI', Arial, sans-serif;
+  text-align: center;
+}
+h1 {
+  margin-top: 30px;
+  margin-bottom: 20px;
+}
+#pizarra {
+  background: #111;
+  border: 3px solid #444;
+  border-radius: 12px;
+  box-shadow: 0 0 20px #000a;
+  display: block;
+  margin: 0 auto;
+  cursor: crosshair;
+}
